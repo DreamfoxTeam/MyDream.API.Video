@@ -13,3 +13,6 @@ You can access the Video API at address
 `http://localhost:8000/videos/`
 
 <img src="images/video-start-api.png" />
+
+## Contribute to this Project
+You are welcome to fix errors or suggest additions by creating pull requests.
